@@ -12,7 +12,7 @@
 
 for communication:    
 
-<a href="https://t.me/vitflare" style="margin-left: 100px;">
+<a href="https://t.me/vitflare" style="margin-left: 1000px;">
   <img src="https://pngicon.ru/file/uploads/telegram.png" width="25" height="25"/>
 </a>
 
