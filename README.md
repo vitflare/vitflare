@@ -12,20 +12,7 @@
 
 for communication:    
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .telegram-link {
-    margin-left: 20px;
-  }
-</style>
-</head>
-<body>
-
-<a class="telegram-link" href="https://t.me/vitflare">
+<a href="https://t.me/vitflare" style="margin-left: 20px;">
   <img src="https://pngicon.ru/file/uploads/telegram.png" width="25" height="25"/>
 </a>
 
-</body>
-</html>
