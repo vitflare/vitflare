@@ -10,7 +10,22 @@
 </p>
 
 
-for communication:      
-<a href="https://t.me/vitflare">
-<img src="https://pngicon.ru/file/uploads/telegram.png" width="25" height="25"/>
+for communication:    
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .telegram-link {
+    margin-left: 20px; /* Задает отступ слева */
+  }
+</style>
+</head>
+<body>
+
+<a class="telegram-link" href="https://t.me/vitflare">
+  <img src="https://pngicon.ru/file/uploads/telegram.png" width="25" height="25"/>
 </a>
+
+</body>
+</html>
