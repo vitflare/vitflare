@@ -4,7 +4,7 @@
 - I'm Elizabeth
 - Software Engenering Student at HSE
 - C# .Net, ASP.Net, SQL, Kotlin
-- for communication: [![Telegram](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/vitflare)
+- for communication: [![Telegram](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/vitflare){:height="25px" width="25px"}
   
 <p align="center">
   <img src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=500&fit=max&auto=format" width=300 height=300>
