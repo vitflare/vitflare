@@ -17,7 +17,7 @@ for communication:
 <head>
 <style>
   .telegram-link {
-    margin-left: 20px; /* Задает отступ слева */
+    margin-left: 20px;
   }
 </style>
 </head>
