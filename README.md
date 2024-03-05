@@ -4,8 +4,7 @@
 - I'm Elizabeth
 - Software Engenering Student at HSE
 - C# .Net, ASP.Net, SQL, Kotlin
-- for communication:
-<a href="https://t.me/vitflare">
+- for communication: <a href="https://t.me/vitflare">
         <img src="https://pngicon.ru/file/uploads/telegram.png" width="25" height="25"/>
 </a>
   
