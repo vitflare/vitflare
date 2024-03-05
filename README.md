@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### About me:
+#### About me:
 - I'm Elizabeth
 - Software Engenering Student at HSE
 - C# .Net, ASP.Net, SQL, Kotlin
